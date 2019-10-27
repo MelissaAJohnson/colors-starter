@@ -34,15 +34,15 @@ header {
 }
 
 #column-1 {
-  background: #d5d5d5;
+  background: #3a4da0;
 }
 
 #column-2 {
-  background: #d5d5d5;
+  background: #f46c10;
 }
 
 #column-3 {
-  background: #d5d5d5;
+  background: #6699cc;
 }
 
 
@@ -60,23 +60,23 @@ footer {
 
 @media (min-width: 768px) {
   header {
-    background-color: ;
+    background-color: black;
   }
 
   #column-1 {
-    background-color: ;
+    background-color: #6495ED;
   }
 
   #column-2 {
-    background-color: ;
+    background-color: #7FFF00;
   }
 
   #column-3 {
-    background-color: ;
+    background-color: #FF7F50;
   }
 
   footer {
-    background-color: ;
+    background-color: black;
   }
   
 }
@@ -85,23 +85,23 @@ footer {
 /*---------- Desktops ----------*/
 @media (min-width: 1200px) {
   header {
-    background-color: ;
+    background-color: grey;
   }
 
   #column-1 {
-    background-color: ;
+    background-color: red;
   }
 
   #column-2 {
-    background-color: ;
+    background-color: white;
   }
 
   #column-3 {
-    background-color: ;
+    background-color: blue;
   }
 
   footer {
-    background-color: ;
+    background-color: grey;
   }
    
 }
